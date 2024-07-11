@@ -10,6 +10,7 @@ dfx start --clean
 
 ```
 npm start
+
 ```
 
 3. Deploy canisters
